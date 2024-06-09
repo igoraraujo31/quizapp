@@ -9,3 +9,6 @@ botaoTema.addEventListener("click", () => {
 
 
 verificarTema(body, botaoTema)
+
+
+
